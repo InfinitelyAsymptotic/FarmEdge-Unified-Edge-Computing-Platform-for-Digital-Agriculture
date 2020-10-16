@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246784859257",
+    "firebase_url": "https://iot-nw-data.firebaseio.com",
+    "project_id": "iot-nw-data",
+    "storage_bucket": "iot-nw-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246784859257:android:4420dcd929dc3d395748a8",
+        "android_client_info": {
+          "package_name": "com.example.spoctoiotkrishinetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246784859257-67bisi6h7lv56746q8i0r09c15jjlplu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hwykayQE1ZY7Sr1JniOF3BBvWuuTJPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246784859257-67bisi6h7lv56746q8i0r09c15jjlplu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
